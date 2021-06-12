@@ -1,4 +1,6 @@
 require "active_support/core_ext/integer/time"
+AnimalShelter::Application.default_url_options = AnimalShelter::Application.config.action_mailer.default_url_options
+
 
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.

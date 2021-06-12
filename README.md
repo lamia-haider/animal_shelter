@@ -49,20 +49,18 @@ has many visits
         birthday/age? 
         date brought to shelter
         condition prior to adoption? had owners, feral
-        good with cats?
-        good with dogs?
-        good with kids?
+        checkboxes for illnesses - only vet edit
+        medications? - only vet edit
+
+        adopt or foster? - email needed
 
 
+     
         visit
 
             date of last grooming - only volunteer and admin
             date of last training - only volunteer and admin
             date of last checkup - only vet edit
-            checkboxes for illnesses - only vet edit
-            medications? - only vet edit
-
-        adopt or foster? - email needed
 
 join model
     visits
@@ -71,4 +69,4 @@ join model
 
     type: grooming, training, vet check
 
-    
+
