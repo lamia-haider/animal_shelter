@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  species: MyString
+  breed: MyString
+  birthdate: 2021-06-12 18:05:50
+  age: 1
+  date_enter_shelter: 2021-06-12 18:05:50
+  condition_prior: MyString
+  personality: MyString
+  notes: MyText
+
+two:
+  name: MyString
+  species: MyString
+  breed: MyString
+  birthdate: 2021-06-12 18:05:50
+  age: 1
+  date_enter_shelter: 2021-06-12 18:05:50
+  condition_prior: MyString
+  personality: MyString
+  notes: MyText
